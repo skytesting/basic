@@ -1,3 +1,4 @@
 Just to followup gitops configurations:
 https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/tutorial-use-gitops-flux2?tabs=azure-portal
+https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/gitops-flux2-parameters#local-secret-for-authentication-with-source
 
